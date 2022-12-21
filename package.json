@@ -1,5 +1,5 @@
 {
-  "name": "todo-list-app",
+  "name": "todo-list",
   "version": "0.1.0",
   "private": true,
   "description": "A web application for creating a list of todos",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lykoffant/todo-list-app.git"
+    "url": "git+https://github.com/lykoffant/todo-list.git"
   },
   "keywords": [
     "react",
@@ -28,7 +28,7 @@
   ],
   "author": "Anton Lykov",
   "bugs": {
-    "url": "https://github.com/lykoffant/todo-list-app/issues"
+    "url": "https://github.com/lykoffant/todo-list/issues"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",

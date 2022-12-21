@@ -1,4 +1,4 @@
-# Todo List App
+# Todo List
 
 A web application for creating a list of todos.
 
