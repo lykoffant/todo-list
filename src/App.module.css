@@ -1,0 +1,16 @@
+.parent {
+  max-width: 720px;
+  height: 100vh;
+  padding-top: 24px;
+}
+
+.title {
+  margin-bottom: 24px;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.form {
+  margin-bottom: 24px;
+}

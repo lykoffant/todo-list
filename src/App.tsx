@@ -1,13 +1,15 @@
-import { Container, Row, Col } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
+
+import styles from './App.module.css';
+
+import { AddTodoForm, TodoList } from './components';
 
 function App() {
   return (
-    <Container>
-      <Row>
-        <Col>
-          <h1>Todo List</h1>
-        </Col>
-      </Row>
+    <Container className={styles.parent} as='main'>
+      <h1 className={styles.title}>Todo List</h1>
+      <AddTodoForm className={styles.form} />
+      <TodoList />
     </Container>
   );
 }

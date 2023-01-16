@@ -1,0 +1,40 @@
+.parent {
+  display: flex;
+  align-items: center;
+}
+
+.parent > * {
+  margin-right: 16px;
+}
+
+.parent > *:last-child {
+  margin-right: 0;
+}
+
+.checkbox {
+  flex-shrink: 0;
+  margin-top: 0;
+}
+
+.title {
+  overflow: hidden;
+  flex-grow: 1;
+
+  font-size: 24px;
+  font-weight: bold;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.title_muted {
+  color: lightgray;
+}
+
+.button {
+  line-height: 100%;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
