@@ -27,6 +27,7 @@
     "todo-list"
   ],
   "author": "Anton Lykov",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/lykoffant/todo-list/issues"
   },
