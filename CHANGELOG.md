@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/lykoffant/todo-list/compare/v1.0.0...v1.1.0) (2023-02-03)
+
+
+### Features
+
+* sync localStorage and root state ([87fa587](https://github.com/lykoffant/todo-list/commit/87fa58703e168e332b391d6b7e59050b36be5d05))
+
 ## 1.0.0 (2023-01-19)
 
 
