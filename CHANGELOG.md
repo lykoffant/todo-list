@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/lykoffant/todo-list/compare/v1.1.0...v1.1.1) (2023-02-05)
+
+
+### Bug Fixes
+
+* add a favicon ([9b6706f](https://github.com/lykoffant/todo-list/commit/9b6706f4a7f0458e0bc3b5cb70d1ecd5fdafb3cd))
+
 ## [1.1.0](https://github.com/lykoffant/todo-list/compare/v1.0.0...v1.1.0) (2023-02-03)
 
 
